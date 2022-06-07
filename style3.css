@@ -1,0 +1,17 @@
+button {
+  background-color: #fefe;
+}
+button {
+  margin-top: 50px;
+  margin-left: 15px;
+}
+input {
+  background-color: #fafafa;
+  position: absolute;
+  left: 2%;
+}
+body {
+  background-color: whitesmoke;
+  line-height: 2;
+  margin-left: 15px;
+}
